@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/BeamDevDotnet8.props" />
+</Project>
