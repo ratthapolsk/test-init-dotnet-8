@@ -8,11 +8,6 @@ updates:
     labels:
       - "dependencies"
       - "nuget"
-    groups:
-      production-dependencies:
-        dependency-type: "production"
-      development-dependencies:
-        dependency-type: "development"
     commit-message:
       prefix: "chore"
       prefix-development: "chore(dev)"
